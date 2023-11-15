@@ -28,27 +28,21 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/personal-finance-tracker.git
+    git clone https://github.com/matheuspassini/Personal-Finances.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
-3. 1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/project-name.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd project-name
-    ```
-
+   
 3. Install dependencies:
-
-    ```bash
+   ```bash
     npm install
     ```
+
+4. Run `json-server`:
+   ```bash
+   npm run json-server
+   ```
+
 
 ## Dependencies
 
