@@ -1,0 +1,29 @@
+{
+    "transactions": [
+      {
+        "id": 1,
+        "name": "Freelance Job",
+        "amount": 300
+      },
+      {
+        "name": "Salary",
+        "amount": 3200,
+        "id": 3
+      },
+      {
+        "name": "Water Bill",
+        "amount": -60,
+        "id": 4
+      },
+      {
+        "name": "Eletricity Bill",
+        "amount": -150,
+        "id": 5
+      },
+      {
+        "name": "Self Care",
+        "amount": -200,
+        "id": 6
+      }
+    ]
+}
