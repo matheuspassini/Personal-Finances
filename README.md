@@ -1,3 +1,5 @@
+<img src="https://github.com/matheuspassini/Personal-Finances/blob/main/images/background.jpeg">
+
 # Personal Finance Tracker
 
 ## Overview
