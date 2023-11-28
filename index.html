@@ -8,7 +8,9 @@
   <title>Personal Finances</title>
 </head>
 <body>
-  <h1>Personal Finances</h1>
+  <header>
+    <h1>Personal Finances</h1>
+  </header>
   <main>
     <form>
       <h2>New transaction</h2>
@@ -19,12 +21,12 @@
       <label for="amount">Amount:</label>
       <input type="number" step="0.01" id="amount" name="amount">
       <br><br>
-      <button>Save Transactions</button>
+      <button id="save">Save Transactions</button>
     </form>
     <div>
-      <h2>Bank Balance<span id="balance"></span></h2>
+      <h2><span id="balance"></span></h2>
       <h2>Bank Transaction History</h2>
-      <section id="transactions"></section>
+      <div id="transactions"></div>
     </div>
   </main>
 
