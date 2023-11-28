@@ -23,26 +23,38 @@ Make sure you have the following installed:
 
 - Web browser with JavaScript enabled
 
-### Installation
+### Installation process and running
 
-1. Clone the repository:
+ 1. Create a new directory:
+
+    ```bash
+    mkdir personal-finance
+    ```
+
+ 2. Clone the repository:
 
     ```bash
     git clone https://github.com/matheuspassini/Personal-Finances.git
     ```
 
-2. Open the `index.html` file in your preferred web browser.
-   
-3. Install dependencies:
-   ```bash
-    npm install
-    ```
+  3. Navigate to the project directory:
 
-4. Run `json-server`:
-   ```bash
-   npm run json-server
-   ```
+      ```bash
+      cd personal-finance
+      ```
 
+  4. Install dependencies:
+
+      ```bash
+      npm install
+      ```
+  5. Run the json-server. This will simulate a backend environment, hosted in the port 3000
+
+      ```bash
+      npm run json-server
+      ```
+      
+  6. Open the html file
 
 ## Dependencies
 
